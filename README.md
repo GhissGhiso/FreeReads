@@ -1,2 +1,2 @@
 # FreeReads
-Alternative de OpenSource à GoodReads. Application de gestion pour lectrices et lecteurs d'Amazon.
+FreeReads, OpenSource Alternative pour GoodReads. Application de gestion pour lectrices et lecteurs d'Amazon.
